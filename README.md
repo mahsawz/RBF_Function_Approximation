@@ -8,4 +8,4 @@ Use this network and predict the F(x) = x^3, then compare the output of the netw
 
 The result image:
 
-![Image](https://github.com/mahsawz/RBF_Function_Approximation/blob/main/result-image.jpg)
+<img src="https://github.com/mahsawz/RBF_Function_Approximation/blob/main/result-image.jpg" width="300" height="200">
